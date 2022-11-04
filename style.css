@@ -1,0 +1,25 @@
+p{
+    color:blueviolet;
+    font-weight: lighter;
+}
+p.koyu{
+    font-weight: bold;
+    color:palevioletred;
+    text-decoration: underline;
+    font-size: x-large;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+a{
+    color: rebeccapurple;
+    text-decoration: none;
+    zoom: 25;
+
+}
+a:hover{
+    background-color: aquamarine;
+    opacity: %10;
+}
+a:visited{
+    color: blue;
+}

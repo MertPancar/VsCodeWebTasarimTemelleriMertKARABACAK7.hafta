@@ -1,0 +1,26 @@
+body
+{
+background-color: #eee;
+color:#545454;
+}
+h1
+{
+    color:gray;
+}
+#renk
+{
+color: red;
+}
+.koyu
+{
+    color: #000;
+}
+.acik
+{
+    color:#c1c1c1;
+}
+.myDiv {
+    background-color: white;
+    padding: 40px;
+    margin: 30px;
+}
